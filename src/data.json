@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "FirstName" : "Prateek",
+            "MiddleName": "",
+            "LastName" : "Sharma",
+            "Email" : "abc@gmail.com",
+            "Phone": "1000000000",
+            "Address": "1234"
+
+        },
+        {
+            "id": "2",
+            "FirstName" : "Ok",
+            "MiddleName": "",
+            "LastName" : "Sharma",
+            "Email" : "abc@gmail.com",
+            "Phone": "1000000000",
+            "Address": "1234"
+
+        },
+        {
+            "id": "3",
+            "FirstName" : "NP",
+            "MiddleName": "",
+            "LastName" : "Sharma",
+            "Email" : "abc@gmail.com",
+            "Phone": "1000000000",
+            "Address": "1234"
+
+        }
+    ]
+
+}
